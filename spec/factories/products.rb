@@ -3,7 +3,7 @@ FactoryBot.define do
   factory :product do
     title { :test }
     description { :published }
-    image_url { 'https://s1.1zoom.me/big0/540/422617-Kycb.jpg' }
+    image_url { 'https://images7.alphacoders.com/511/thumb-1920-511163.jpg' }
     price { 13 }
   end
 end
